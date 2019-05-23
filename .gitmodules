@@ -1,0 +1,6 @@
+[submodule "src/github.com/gogo/protobuf"]
+	path = src/github.com/gogo/protobuf
+	url = https://github.com/gogo/protobuf.git
+[submodule "src/github.com/TheThingsNetwork/api"]
+	path = src/github.com/TheThingsNetwork/api
+	url = https://github.com/TheThingsNetwork/api.git
