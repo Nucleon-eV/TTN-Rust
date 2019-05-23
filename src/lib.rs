@@ -1,5 +1,5 @@
-extern crate protobuf;
-extern crate grpc;
+pub extern crate protobuf;
+pub extern crate grpc;
 extern crate futures;
 extern crate futures_cpupool;
 
